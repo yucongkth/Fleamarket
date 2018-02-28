@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "304547871865",
+    "firebase_url": "https://fleamarket-project-c1b87.firebaseio.com",
+    "project_id": "fleamarket-project-c1b87",
+    "storage_bucket": "fleamarket-project-c1b87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304547871865:android:f7f89a199e6f00d4",
+        "android_client_info": {
+          "package_name": "kth.id2216.fleamarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304547871865-ea5oaa2ql3udjujsqavq1iuncub0uffq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kth.id2216.fleamarket",
+            "certificate_hash": "e5cf03c3cfb28bcdbdcea72b569d8315efc6a04b"
+          }
+        },
+        {
+          "client_id": "304547871865-tmfnllbjep9a1hgqn5r3k68phtdg9vo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA14UtlFmCeX4f2RftuHSVKMYKQ_IY5o_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304547871865-tmfnllbjep9a1hgqn5r3k68phtdg9vo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
